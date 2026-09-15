@@ -1,0 +1,12 @@
+Nome: Rodrigo Ribeiro Chrispim Junior
+
+Área de interesse: Desenvolvimento Back-end
+
+Conhecimentos:
+- Python
+- HTML
+- CSS
+- Pacote Office
+
+Objetivo:
+Me desenvolver profissionalmente na área de programação.
