@@ -23,3 +23,13 @@ Atualmente possuo conhecimentos básicos em Python, HTML, CSS e pacote Office.
 ## Objetivo
 
 Utilizar este repositório para praticar programação, controle de versão e organização de projetos, além de registrar minha evolução profissional.
+
+
+
+## Próximos passos
+
+- Aprender mais sobre Python
+- Aprender bancos de dados
+- Desenvolver projetos próprios
+- Aprender desenvolvimento de APIs
+- Criar um portfólio profissional
